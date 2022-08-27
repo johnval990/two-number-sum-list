@@ -51,6 +51,14 @@ $ npm start 1,2,3,4 3
 - The arguments (Arg-1 and Arg-2) passed in the script will be validated if they are the required types, otherwise an error message will be returned.
 - Before processing the script all duplicate numbers will be removed from the list in the Arg-1
 
+## Running the unit tests
+
+To run unit tests, run the following command:
+
+```
+$ npm run test:unit
+```
+
 ## Sample Tests
 
 These are some example commands with their respective responses:
